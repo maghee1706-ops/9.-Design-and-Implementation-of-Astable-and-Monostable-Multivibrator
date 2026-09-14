@@ -1,3 +1,6 @@
+
+
+
 # 9.-Design-and-Implementation-of-Astable-and-Monostable-Multivibrator
 **Aim:**
 To design and implement Astable-and-Monostable-Multivibrator-using-IC 555 Timer.
@@ -77,12 +80,21 @@ RA=7.2KΩ, RB= 3.6KΩ
 
   **CIRCUIT DIAGRAM**
 
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/5b276303-8fef-4fd1-a661-d9aa1024f5c3" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/bb0fffb2-3fcb-44e1-a7a4-ee1c9f6699d3" />
+
 
   **MODEL GRAPH:**
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/86663176-dd24-46a9-b7c1-d16920a3a043" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/bd91483e-d5a8-4d53-bd19-a630dcd14344" />
 
 
   **TABULATION:**
  
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2f8f1b20-b5d2-476e-8e8e-9fd8e16db680" />
 
 
 
